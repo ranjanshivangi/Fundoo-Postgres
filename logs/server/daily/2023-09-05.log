@@ -1,0 +1,158 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:09:48.870Z"}
+error: Could not connect to the database. connect ECONNREFUSED 127.0.0.1:5432 {"name":"SequelizeConnectionRefusedError","original":{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"parent":{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432\n    at Client._connectionCallback (D:\\Postgres_Project\\fundoo\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:179:24)\n    at Client._handleErrorWhileConnecting (D:\\Postgres_Project\\fundoo\\node_modules\\pg\\lib\\client.js:327:19)\n    at Client._handleErrorEvent (D:\\Postgres_Project\\fundoo\\node_modules\\pg\\lib\\client.js:337:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at Socket.reportStreamError (D:\\Postgres_Project\\fundoo\\node_modules\\pg\\lib\\connection.js:58:12)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2023-09-05T04:09:48.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:10:25.873Z"}
+error: Could not connect to the database. connect ECONNREFUSED 127.0.0.1:5432 {"name":"SequelizeConnectionRefusedError","original":{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"parent":{"address":"127.0.0.1","code":"ECONNREFUSED","errno":-4078,"port":5432,"syscall":"connect"},"stack":"SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:5432\n    at Client._connectionCallback (D:\\Postgres_Project\\fundoo\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:179:24)\n    at Client._handleErrorWhileConnecting (D:\\Postgres_Project\\fundoo\\node_modules\\pg\\lib\\client.js:327:19)\n    at Client._handleErrorEvent (D:\\Postgres_Project\\fundoo\\node_modules\\pg\\lib\\client.js:337:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at Socket.reportStreamError (D:\\Postgres_Project\\fundoo\\node_modules\\pg\\lib\\connection.js:58:12)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2023-09-05T04:10:25.890Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:10:25.922Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:12:06.595Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:12:06.617Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:12:06.827Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:14:51.797Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:14:51.824Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:14:52.045Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:14:59.283Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:14:59.309Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:14:59.518Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:16:07.538Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:16:07.569Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:16:07.840Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:18:02.506Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:18:02.538Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:18:02.731Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:19:11.139Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:19:11.174Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:19:11.434Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:19:20.336Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:19:20.356Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:19:20.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:19:45.344Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:19:45.363Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:19:45.535Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:20:04.416Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:20:04.452Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:20:04.668Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:21:43.463Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:21:43.526Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:21:43.820Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T04:24:40.748Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T04:24:40.765Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T04:24:40.930Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T05:01:51.038Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T05:01:51.090Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T05:01:51.248Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\Postgres_Project\fundoo\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\Postgres_Project\fundoo\src\middlewares\/auth.middleware.js:22:29)
+    at tryCatch (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\Postgres_Project\fundoo\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Postgres_Project\fundoo\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\Postgres_Project\fundoo\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (D:\Postgres_Project\fundoo\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (D:\Postgres_Project\fundoo\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-05T05:02:15.260Z"}
+error: 
+    status - 500 
+    message - JsonWebTokenError: jwt malformed
+    at Object.verify (D:\Postgres_Project\fundoo\node_modules\jsonwebtoken\verify.js:63:17)
+    at _callee$ (D:\Postgres_Project\fundoo\src\middlewares\/auth.middleware.js:22:29)
+    at tryCatch (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (D:\Postgres_Project\fundoo\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at userAuth (D:\Postgres_Project\fundoo\src\middlewares\/auth.middleware.js:12:22)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Postgres_Project\fundoo\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at logger (D:\Postgres_Project\fundoo\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (D:\Postgres_Project\fundoo\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10)
+    at urlencodedParser (D:\Postgres_Project\fundoo\node_modules\body-parser\lib\types\urlencoded.js:91:7)
+    at Layer.handle [as handle_request] (D:\Postgres_Project\fundoo\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:328:13)
+    at D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Postgres_Project\fundoo\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/notes 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-09-05T05:02:15.285Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-09-05T07:46:39.213Z"}
+info: connection successful for redis database -true {"timestamp":"2023-09-05T07:46:39.231Z"}
+info: Connected to the database. {"timestamp":"2023-09-05T07:46:39.398Z"}
